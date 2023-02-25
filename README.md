@@ -1,6 +1,10 @@
 # Jogo de Tetris em Python e Pygame
 ##### Este é um jogo de Tetris desenvolvido em Python e Pygame.
 
+<hr/>
+
+![](./previews/preview.png)
+
 ## Como jogar
 
 - Setas para baixo = Mover para baixo
